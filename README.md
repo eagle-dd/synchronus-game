@@ -1,1 +1,2 @@
-# synchronus-game
+# synchronousBallMovement
+Ball moving synchronously
